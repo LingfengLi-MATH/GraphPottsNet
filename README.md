@@ -94,7 +94,7 @@ pottsnet_example/
 
 ## Citation
 
-Add the associated paper citation here before publishing the repository.
+New Ways to Construct Graph Neural Networks from Variational Models and Control Approaches, to be appear in Multiscale modeling and simulation.
 
 ## License
 
